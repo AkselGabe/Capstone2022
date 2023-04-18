@@ -1,9 +1,0 @@
-# ignore mac files
-.DS_store
-
-# ignore node modules
-/node_modules/*
-# Work around to ignore node modules
-
-*.pack
-/node_modules/.cache
