@@ -1,0 +1,17 @@
+.body {
+    margin: 0,
+}
+
+.navbar {
+    height: 100px;
+    background-color: #6CA4DC; /* Hex value PC Blue */
+    color: #fff; /* Black */
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
